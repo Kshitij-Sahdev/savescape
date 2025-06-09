@@ -1,0 +1,36 @@
+{
+  "playerName": "TestPlayer",
+  "level": 15,
+  "experience": 2450,
+  "health": 100,
+  "mana": 80,
+  "inventory": [
+    {"item": "Iron Sword", "quantity": 1},
+    {"item": "Health Potion", "quantity": 5},
+    {"item": "Gold Coins", "quantity": 150}
+  ],
+  "location": {
+    "map": "Forest of Shadows",
+    "x": 125.5,
+    "y": 67.8,
+    "z": 0
+  },
+  "questProgress": {
+    "main_quest": "The Dark Crystal",
+    "side_quests": ["Collect 10 herbs", "Defeat the Forest Guardian"],
+    "completed_quests": ["Tutorial", "First Steps"]
+  },
+  "gameStats": {
+    "playtime": "4:32:15",
+    "enemies_defeated": 47,
+    "items_collected": 123,
+    "deaths": 2
+  },
+  "settings": {
+    "difficulty": "Normal",
+    "autoSave": true,
+    "musicVolume": 0.8,
+    "sfxVolume": 0.9
+  },
+  "lastSaved": "2025-06-09T09:27:00.000Z"
+}
